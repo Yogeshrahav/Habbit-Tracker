@@ -1,0 +1,25 @@
+.navbar {
+    position: fixed;
+    top: 10px;
+    display: flex;
+    gap: 15px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 999;
+    margin-left: auto;
+    margin-right: 0px;
+  }
+  
+  .icon {
+    cursor: pointer;
+    color: #333;
+    transition: color 0.3s ease;
+  }
+  
+  .icon:hover {
+    color: #1976d2; /* MUI blue */
+  }
+
+  

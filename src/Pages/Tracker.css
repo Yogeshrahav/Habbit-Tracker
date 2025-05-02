@@ -1,4 +1,8 @@
 .habit-container {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 100vh;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: linear-gradient(to bottom right, #e0f7fa, #ffffff);
     margin: 60px auto;
